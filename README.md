@@ -14,7 +14,5 @@ This is a simple Tic Tac Toe game built using Lovable.ai. You can play the class
 - JavaScript
 - Lovable.ai (for game logic)
 
-## Contributing
-Feel free to fork the repository and submit pull requests. For major changes, please open an issue first.
 
 
