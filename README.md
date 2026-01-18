@@ -14,5 +14,8 @@ This is a simple Tic Tac Toe game built using Lovable.ai. You can play the class
 - JavaScript
 - Lovable.ai (for game logic)
 
+If you want to play the game, click the link below:
+🔗 https://tic-tac-toe-time.vercel.app/
+
 
 
